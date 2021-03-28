@@ -1,0 +1,11 @@
+body {
+  background-color: #2f4f4f;
+  font-family: "Kanit", sans-serif;
+}
+.img {
+  height: 880px;
+  width: 1920px;
+}
+.nav-item:hover {
+  background-color: #008cba;
+}
